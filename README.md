@@ -1,7 +1,6 @@
-# BUILD A RELATIONAL DATABASE SYSTEM IN MYSQL WITH A PYTHON CLIENT
+# Build a Relational Database System in MySQL with a Python Client pt. 1
 
-As part of the final assessment criteria, you received sample booking data and were tasked with storing it in a database. To successfully implement the Booking system, you were required to:
-
+You received sample booking data and were tasked with storing it in a database. To successfully implement the Booking system, you were required to:
 1. Establish a database to store the data.
 2. Connect to the database using a Python client.
 3. Develop a Python procedure to respond to data changes.
