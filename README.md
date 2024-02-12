@@ -1,4 +1,4 @@
-# db-capstone-project-
+# BUILD A RELATIONAL DATABASE SYSTEM IN MYSQL WITH A PYTHON CLIENT
 
 As part of the final assessment criteria, you received sample booking data and were tasked with storing it in a database. To successfully implement the Booking system, you were required to:
 
@@ -7,15 +7,6 @@ As part of the final assessment criteria, you received sample booking data and w
 3. Develop a Python procedure to respond to data changes.
 4. Connect to the database using Tableau.
 5. Produce data reports using Tableau.
-
-![little_lemon_logo_small](https://github.com/CelineBoutinon/little-lemon/assets/143210563/591c0036-f1d9-46c7-8fdf-e90fc978ff6f)
-
-
-
-# BUILD A RELATIONAL DATABASE SYSTEM IN MYSQL WITH A PYTHON CLIENT
-![Badge_small](https://github.com/CelineBoutinon/little-lemon/assets/143210563/97c01696-f475-41ff-a55c-76238142e074)
-
-Capstone project for the META database engineer specialization on Coursera
 
 ## Project summary
 The goal of the project is to build a database system for Little Lemon restaurant, allowing them to store data regarding:
@@ -31,22 +22,6 @@ The goal of the project is to build a database system for Little Lemon restauran
 - SQL queries should be created to manage and summarize data for Little Lemon;
 - a Python project should be set up for the database client; and
 - Tableau software will be used to perform different types of data analytics to provide Little Lemon with relevant insights into their business performance on a dashboard. 
-
-
-## List of files and folders
-* **folders :**
-  - **raw-data :** project source data (.xlsx and .csv formats)
-  - **data-clean :** clean & formatted data, ready to populate database tables (.csv format)
-  - **queries :** scripts performing the CRUD operations requested in the task list (.sql format)
-
-
-* **files :**
-	- **task_list.pdf :** list of project requirements for SQL queries, Python client project and Tableau dashboard
-	- **creation_script.sql :** database and table creation script from MySQL Workbench Forward Engineer method
-	- **schema.mwb :** entity relationship diagram for the MySQL database
-	- **query_results.xlsx :** results of CRUD scripts
-	- **orders_above_60.ipynb :** Python client in Jupyter Notebook (also as a .py file)
-
 
 ## Skills acquired
 * Create an entity relationship diagram using MySQL Workbench
