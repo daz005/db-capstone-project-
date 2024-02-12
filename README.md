@@ -1,4 +1,4 @@
-# Build a Relational Database System in MySQL with a Python Client pt. 1
+# Build a Relational Database System in MySQL with a Python Client
 
 You received sample booking data and were tasked with storing it in a database. To successfully implement the Booking system, you were required to:
 1. Establish a database to store the data.
